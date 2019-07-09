@@ -6,6 +6,7 @@ RUN deps='\
          nodejs \
          libpq-dev \
          libxml2-dev \
+         openjdk-8-jdk \
          ' \
     && set -x \
     && curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash - \
