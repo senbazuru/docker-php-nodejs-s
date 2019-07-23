@@ -1,1 +1,1 @@
-# docker-php72-nodejs-s
+# docker-php-nodejs-s
