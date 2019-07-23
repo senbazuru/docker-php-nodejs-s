@@ -6,7 +6,7 @@ RUN deps='\
          nodejs \
          libpq-dev \
          libxml2-dev \
-         openjdk-8-jdk \
+         openjdk-11-jdk \
          graphviz \
          ' \
     && set -x \
